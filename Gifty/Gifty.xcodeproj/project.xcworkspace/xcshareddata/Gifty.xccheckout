@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>43E511E8-510E-46F7-AF41-73A47450D152</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Gifty</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>531CCAA62575C3DCB5A5CB3EC109EACE0923A3BC</key>
+		<string>https://github.com/YashodhanGokhale/Gifty.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Gifty/Gifty.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>531CCAA62575C3DCB5A5CB3EC109EACE0923A3BC</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/YashodhanGokhale/Gifty.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>531CCAA62575C3DCB5A5CB3EC109EACE0923A3BC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>531CCAA62575C3DCB5A5CB3EC109EACE0923A3BC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Gifty</string>
+		</dict>
+	</array>
+</dict>
+</plist>
